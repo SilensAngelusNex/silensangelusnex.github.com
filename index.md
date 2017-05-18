@@ -4,9 +4,8 @@ title: Welcome!
 ---
 {% include JB/setup %}
 
-Read [Jekyll Quick Start](http://jekyllbootstrap.com/usage/jekyll-quick-start.html)
-
-Complete usage and documentation available at: [Jekyll Bootstrap](http://jekyllbootstrap.com)
+[About](https://silensangelusnex.github.io/about)
+[Tags](https://silensangelusnex.github.io/tags)
 
 ## Posts
 
@@ -15,3 +14,5 @@ Complete usage and documentation available at: [Jekyll Bootstrap](http://jekyllb
     <li><span>{{ post.date | date_to_long_string }}</span> &raquo; <a href="{{ BASE_PATH }}{{ post.url }}">{{ post.title }}</a></li>
   {% endfor %}
 </ul>
+
+Make your own site like this with [Jekyll Bootstrap](http://jekyllbootstrap.com).
