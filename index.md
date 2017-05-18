@@ -5,6 +5,7 @@ title: Welcome!
 {% include JB/setup %}
 
 [About](https://silensangelusnex.github.io/about)
+
 [Tags](https://silensangelusnex.github.io/tags)
 
 ## Posts
