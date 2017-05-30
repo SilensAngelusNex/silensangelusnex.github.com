@@ -7,7 +7,7 @@ tags: []
 ---
 {% include JB/setup %}
 
-This post is a failed test.
+This post is a successful test.
 
 
 ![alt text](https://raw.githubusercontent.com/SilensAngelusNex/silensangelusnex.github.com/master/_images/pepe.jpg "Perhaps one of the least rare Pepes.")
