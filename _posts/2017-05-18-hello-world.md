@@ -10,7 +10,7 @@ tags: []
 This post is a failed test.
 
 
-![alt text](_images/pepe.jpg?raw=true "Perhaps one of the least rare Pepes.")
+![alt text](https://raw.githubusercontent.com/SilensAngelusNex/silensangelusnex.github.com/master/_images/pepe.jpg "Perhaps one of the least rare Pepes.")
 
 
 See? It works! Text, images, the whole #!
