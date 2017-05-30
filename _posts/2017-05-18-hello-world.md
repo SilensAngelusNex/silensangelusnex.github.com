@@ -7,8 +7,8 @@ tags: []
 ---
 {% include JB/setup %}
 
-This post is a test.
+This post is a failed test.
 
-![Perhaps one of the least rare Pepes.](https://github.com/SilensAngelusNex/silensangelusnex.github.com/tree/master/_images/pepe.jpg)
+![Perhaps one of the least rare Pepes.](_images/pepe.jpg?raw=true)
 
 See? It works! Text, images, the whole #!
