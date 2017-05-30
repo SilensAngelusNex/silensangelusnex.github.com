@@ -6,8 +6,6 @@ title: Welcome!
 
 [About](https://silensangelusnex.github.io/about)
 
-[Tags](https://silensangelusnex.github.io/tags)
-
 ## Posts
 
 <ul class="posts">
