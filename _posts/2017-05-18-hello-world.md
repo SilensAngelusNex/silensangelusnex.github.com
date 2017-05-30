@@ -9,6 +9,6 @@ tags: []
 
 This post is a test.
 
-![alt text](https://github.com/SilensAngelusNex/silensangelusnex.github.com/_images/pepe.jpg "One of the least rare Pepes.")
+![alt text](https://github.com/SilensAngelusNex/silensangelusnex.github.com/images/pepe.jpg "One of the least rare Pepes.")
 
 See? It works! Text, images, the whole #!
