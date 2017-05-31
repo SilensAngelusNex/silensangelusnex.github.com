@@ -2,6 +2,7 @@
 layout: post
 title: "The Night Before"
 description: "Post 1"
+comments: true
 category:
 tags: []
 ---

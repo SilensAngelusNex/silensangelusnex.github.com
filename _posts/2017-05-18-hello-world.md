@@ -2,6 +2,7 @@
 layout: post
 title: "Hello World"
 description: "FIRST!!!1!!one!!!"
+comments: true
 category:
 tags: []
 ---
