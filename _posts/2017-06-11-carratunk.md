@@ -8,7 +8,7 @@ tags: []
 ---
 {% include JB/setup %}
 
-After seven days of no resupply, a two days seems almost two short. I carried three days of food I didn't need over two mountains.
+After seven days of no resupply, a two day seems almost too short. I carried three days of food I didn't need over two mountains.
 
 ![alt text](https://raw.githubusercontent.com/SilensAngelusNex/silensangelusnex.github.com/master/_images/20170610_122435.jpg "Looking out across Bald Mountain Pond")
 
@@ -24,4 +24,4 @@ The next day, I went up Moxie Bald, which is the biggest climb for a single moun
 
 ![alt text](https://raw.githubusercontent.com/SilensAngelusNex/silensangelusnex.github.com/master/_images/20170610_134245.jpg "View from Moxie Bald Peak")
 
-The next town on the radar is Stratton, which looks way bigger than the last two in the guidebook. I think I'm going to take an easy day on the trail tomorrow, but even so, I should be there at the end of the third day after leaving Carratunk. I might have to start skipping towns. I probably woild have gone by Carratunk, but I have to wait for the ferry to get accross the river and their hours are 9-11AM.
+The next town on the radar is Stratton, which looks way bigger than the last two in the guidebook. I think I'm going to take an easy day on the trail tomorrow, but even so, I should be there at the end of the third day after leaving Carratunk. I might have to start skipping towns. I probably would have gone by Carratunk, but I have to wait for the ferry to get accross the river and their hours are 9-11AM.
