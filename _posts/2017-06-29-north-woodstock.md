@@ -1,3 +1,13 @@
+---
+layout: post
+title: "Birthday Post! - North Woodstock"
+description: "Post 7"
+comments: true
+category:
+tags: []
+---
+{% include JB/setup %}
+
 So I'm going to try doing posts in a  shorter, daily journal entry style instead of all at once so I'm not struggling to remember which pictures are which and don't have to be so frantic writing in town.
 
 ### Day 24 - June 23
