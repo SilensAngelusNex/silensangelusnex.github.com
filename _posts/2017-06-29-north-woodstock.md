@@ -36,7 +36,7 @@ Today started with a 2500 foot climb up to the summit of Mount Madison, then we 
 
 ![alt text](https://raw.githubusercontent.com/SilensAngelusNex/silensangelusnex.github.com/master/_images/woodstock/20170625_115401.jpg "Mount Washington in the distance")
 
-![alt text](https://raw.githubusercontent.com/SilensAngelusNex/silensangelusnex.github.com/master/_images/woodstock/20170625_163828.jpg "Looking backwards from the top of Washington")
+![alt text](https://raw.githubusercontent.com/SilensAngelusNex/silensangelusnex.github.com/master/_images/woodstock/20170625_142204.jpg "Looking backwards from the top of Washington")
 
 ![alt text](https://raw.githubusercontent.com/SilensAngelusNex/silensangelusnex.github.com/master/_images/woodstock/20170625_170657.jpg "Looking down the trail towards Lake of the Clouds")
 
