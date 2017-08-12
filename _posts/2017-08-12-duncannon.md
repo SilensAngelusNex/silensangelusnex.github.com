@@ -1,5 +1,6 @@
 ---
-layout: post title: "Through the Rocks - Duncannon"
+layout: post
+title: "Through the Rocks - Duncannon"
 description: "Post 14"
 comments: true
 category: tags: []
