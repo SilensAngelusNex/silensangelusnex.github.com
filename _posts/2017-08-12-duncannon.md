@@ -3,7 +3,8 @@ layout: post
 title: "Through the Rocks - Duncannon"
 description: "Post 14"
 comments: true
-category: tags: []
+category:
+tags: []
 ---
 {% include JB/setup %}
 
