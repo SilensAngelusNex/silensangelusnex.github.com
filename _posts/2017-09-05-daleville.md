@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Other People! - Daleville"
+title: "Gotta Go Fast - Daleville"
 description: "Post 15"
 comments: true
 category:
@@ -14,24 +14,19 @@ tags: []
 
 ![alt text](https://raw.githubusercontent.com/SilensAngelusNex/silensangelusnex.github.com/master/_images/daleville/20170819_091220.jpg "Bridge into Harper's Ferry")
 
-
+My resupply problem is solved; Bear's Den has a pretty decent resupply with Ramen, Rice Sides, and some bars. I got a nice taste of the Rollercoaster on my way in. It's a 13 mile section of rolling hills. They're each about 500-1000 ft climbs. I'm 4 miles in now, so the first half of my day tomorrow will be rough. In other news, I found a weird bug bite or something on the back of my head. Hopefully it's a mosquito or something and I don't have Lymes. If it doesn't go away in a day or two, I'll go get it checked out when I get the chance.
 
 ### Day 82- August 20
 ---
 
-![alt text](https://raw.githubusercontent.com/SilensAngelusNex/silensangelusnex.github.com/master/_images/daleville/20170820_085026.jpg "Bridge into Harper's Ferry")
+![alt text](https://raw.githubusercontent.com/SilensAngelusNex/silensangelusnex.github.com/master/_images/daleville/20170820_085026.jpg "View from Bear's Den")
 
+Weeeeeee! The rollercoaster ride is finished! The rest of the day was through some nice meadows and gentle hills. I thought I earned it. I got into a really nice shelter where a ridge runner told me and the section hiker staying there about how fire rings she breaks up keep magically reappearing and (somewhat angrily) cut down all the strings hanging from the shelter roof for people to hang packs. That night, I got woken up a hour after I fell asleep by Dad shining his headlamp in my face. He brought me my nice poles. I'm so happy.
 
-
-### Day 83- August 21
+### Day 83-84 - August 21-22
 ---
 
-
-
-### Day 84- August 22
----
-
-
+So I decided to take advantage of the fact that Dad's car is a mile away to head back home and get this bite checked out. My neck and the back of my head are all swelled up so I went to the doctor and got a blood test for Lymes. And might as well chill out a little while I'm at home. I probably should have posted, but I'd only have a few days on the post and I'm lazy, so...
 
 ### Day 85- August 23
 ---
