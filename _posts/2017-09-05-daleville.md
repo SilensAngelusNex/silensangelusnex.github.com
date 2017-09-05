@@ -31,7 +31,7 @@ So I decided to take advantage of the fact that Dad's car is a mile away to head
 ### Day 85- August 23
 ---
 
-
+I got a ridiculously late start today leaving home and started hiking at ~2PM. I just did 5 miles to the shelter after the one where I stayed with Dad. There was a handful of people at the shelter tonight, including **Halfway** (the hiker formerly known as John) and his dog Blue. I thought he was way ahead of me, but Blue apparently slowed him down. It was nice to ease back into the hiking with such a short and easy day after being back.
 
 ### Day 86- August 24
 ---
