@@ -128,3 +128,7 @@ To be blunt, it's been too long for me to remember anything about these uneventf
 ![alt text](https://raw.githubusercontent.com/SilensAngelusNex/silensangelusnex.github.com/master/_images/daleville/20170905_080734.jpg "Meadows outside of Daleville")
 
 Today was a crazy saga of hiking. We went into Daleville, resupplied and ate at a Bojangles and a local barbecue place. (They didn't give us the free dessert that their AWOL entry claims because it "isn't hiker season." We had a table of eight hikers.) Then, we hiked up to Tinker Cliffs to try to catch the sunset. It was overcast, so the view wasn't particularly spectacular. After sunset (Yes, in the dark) we hiked four miles to the next shelter to grab some sleep before waking up in time to hike another mile to see the sunrise at McAfee Knob (*The* AT picture spot). I am not at all a fan of the whole headlamping thing. Also, hot take: sleep is pretty great too. We did get some nice photos on the Knob even though it was smilarly overcast and chillingly windy.
+
+![alt text](https://raw.githubusercontent.com/SilensAngelusNex/silensangelusnex.github.com/master/_images/daleville/20170905_141744.jpg "View from Hay Rock")
+
+![alt text](https://raw.githubusercontent.com/SilensAngelusNex/silensangelusnex.github.com/master/_images/daleville/20170906_065929.jpg "View from McAfee Knob")
