@@ -83,14 +83,14 @@ Today we left the Shenandoah State Park and headed in to Waynesboro. **Pickles**
 
 ![alt text](https://raw.githubusercontent.com/SilensAngelusNex/silensangelusnex.github.com/master/_images/daleville/20170830_134645.jpg "View from Humpback Mountain")
 
-
+We hiked from Waynesboro straight to Reed's Gap, home of the Devil's Backbone Brewery. The guy **Pickles** stayed with (her dad's first boss, who just finished a section hike) picked us up at the trail and took us to the brewery. It looked like a restaurants that belonged at Disney. The food was great! I got some French Dip barbecue stuff that really hit the spot. I'm looking forward to the breakfast; it's supposed to be huge.
 
 ### Day 93 - August 31
 ---
 
 ![alt text](https://raw.githubusercontent.com/SilensAngelusNex/silensangelusnex.github.com/master/_images/daleville/20170831_094901.jpg "The Devils Backbone Brewery")
 
-
+The breakfast lived up to expectations, so we got a late start out of the brewery this morning. They shuttled us back to the trail in a the back of a pick-up truck. **Nature Boy** was extatic about riding in the bed "just like in movies." The end of the day was a huge climb straight up The Priest. It wasn't steep, but it was four straight miles of climbing. Once we got to the shelter at the top we read the log book, which hikers have turned into somthing of a confessional, displaying all of their trail sins. Most of them were comedic, but there was a handful of actually terrible ones.
 
 ![alt text](https://raw.githubusercontent.com/SilensAngelusNex/silensangelusnex.github.com/master/_images/daleville/20170831_122439.jpg "On Three Ridges Mountain")
 
@@ -100,25 +100,23 @@ Today we left the Shenandoah State Park and headed in to Waynesboro. **Pickles**
 ### Day 94 September 1
 ---
 
-
+My friends abandoned me! It was raining hard all day and I reached the shelter we'd decided to stay when I found out that thw rest of the group had gone in to town to stay in a motel. Apparently they were wet and cold or something. I did my best to snuggle up in the shelter and ate for about four hours.
 
 ### Day 95 September 2
 ---
 
 ![alt text](https://raw.githubusercontent.com/SilensAngelusNex/silensangelusnex.github.com/master/_images/daleville/20170902_141125.jpg "The trail through the mist")
 
+Everything is still soaked from yesterday, but at least it's foggy instead of rainy now. My pack was nice and light since I ate all my food yesterday, but going into Glasgow to resupply was a pain. It took a long time to hitch in and once I got food and ate it was almost 7:30. I had to get a shuttle back to the trail; I think I got ripped off. I did meet up with my squad again at the shelter and was pretty happy eating my Italian Sub from town while everyone else cooked.
 
 ![alt text](https://raw.githubusercontent.com/SilensAngelusNex/silensangelusnex.github.com/master/_images/daleville/20170902_194228.jpg "Bridge out of Glasgow")
 
-### Day 96 - September 3
+### Day 96-97 - September 3-4
 ---
+
+To be blunt, it's been too long for me to remember anything about these uneventful days.
 
 ![alt text](https://raw.githubusercontent.com/SilensAngelusNex/silensangelusnex.github.com/master/_images/daleville/20170903_123037.jpg "View from Thunder Ridge")
-
-
-
-### Day 97 - September 4
----
 
 ![alt text](https://raw.githubusercontent.com/SilensAngelusNex/silensangelusnex.github.com/master/_images/daleville/20170904_120330.jpg "Views near Buchanan")
 
@@ -129,4 +127,4 @@ Today we left the Shenandoah State Park and headed in to Waynesboro. **Pickles**
 
 ![alt text](https://raw.githubusercontent.com/SilensAngelusNex/silensangelusnex.github.com/master/_images/daleville/20170905_080734.jpg "Meadows outside of Daleville")
 
-
+Today was a crazy saga of hiking. We went into Daleville, resupplied and ate at a Bojangles and a local barbecue place. (They didn't give us the free dessert that their AWOL entry claims because it "isn't hiker season." We had a table of eight hikers.) Then, we hiked up to Tinker Cliffs to try to catch the sunset. It was overcast, so the view wasn't particularly spectacular. After sunset (Yes, in the dark) we hiked four miles to the next shelter to grab some sleep before waking up in time to hike another mile to see the sunrise at McAfee Knob (*The* AT picture spot). I am not at all a fan of the whole headlamping thing. Also, hot take: sleep is pretty great too. We did get some nice photos on the Knob even though it was smilarly overcast and chillingly windy.
