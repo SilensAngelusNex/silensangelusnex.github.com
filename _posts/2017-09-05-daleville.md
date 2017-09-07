@@ -37,14 +37,14 @@ I got a ridiculously late start today leaving home and started hiking at ~2PM. I
 ### Day 86 - August 24
 ---
 
-![alt text](https://raw.githubusercontent.com/SilensAngelusNex/silensangelusnex.github.com/master/_images/daleville/20170824_160231.jpg "Bridge into Harper's Ferry")
+![alt text](https://raw.githubusercontent.com/SilensAngelusNex/silensangelusnex.github.com/master/_images/daleville/20170824_160231.jpg "View from North Marshall Mountain")
 
-
+I hiked up into the Shenandoah State Park today. I haven't seen any bears yet, which is surprising given the NOBOs' stories about the park, but I have seen tons of signs about bears. I had to put a big tag on my pack that says I'm a backpacker when I crossed into the park, which I though you had to buy, but I didn't see anywhere to pay. I met back up with **Sniffles** at the shelter tonight; he said he took a couple days off back home in D.C. when he passed through Harper's Ferry.
 
 ### Day 87 - August 25
 ---
 
-![alt text](https://raw.githubusercontent.com/SilensAngelusNex/silensangelusnex.github.com/master/_images/daleville/20170825_151333.jpg "Bridge into Harper's Ferry")
+![alt text](https://raw.githubusercontent.com/SilensAngelusNex/silensangelusnex.github.com/master/_images/daleville/20170825_151333.jpg "Mary's Rock Overlook")
 
 After getting in to the shelter tonight, **Sniffles** came up with two other thruhikers, one a Harper's Ferry flip-flopper, **Pickles**, and **Nature Boy**, a SOBO from Denmark. These guys laid out their plan for going through the Shenandoahs, which is more aggressive than mine (They're trying to get done by early October.) but I'm going to latch on and let them pull me along. The company should make it easier. Their plan is to get to Waynesboro in four day and includes a 26.2 day, which should be fun.
 
@@ -52,23 +52,23 @@ After getting in to the shelter tonight, **Sniffles** came up with two other thr
 ### Day 88 - August 26
 ---
 
-![alt text](https://raw.githubusercontent.com/SilensAngelusNex/silensangelusnex.github.com/master/_images/daleville/20170826_075655_Burst11.jpg "Bridge into Harper's Ferry")
+![alt text](https://raw.githubusercontent.com/SilensAngelusNex/silensangelusnex.github.com/master/_images/daleville/20170826_075655_Burst11.jpg "View from The Pinnacle")
 
 Not the best morning today. I woke up with a sore throat, then, four or five miles in to the hike, a bee stung me on the ear, so I was all swelled up for a couple days. I'm fine now, no suspicious swelling or bites or anything, but I really hope these don't become a regular thing. The hiking today was pretty fast, motivated by the wayside two-thirds of the way through the day. We posted up in the restaurant there for a while, then resupplied at their little store before leaving. I got a big slice of Virginia Ham to pack out. Some of the section hikers at the shelter that night really got me worried about trichinosis while I was boiling ham pieces in my ramen (Backseat cooking, amiright?), so I cooked the rest over the fire on a stick. It turned into a bit of a group project; everyone was a bit mesmerised once the fat started dripping into the fire.
 
-![alt text](https://raw.githubusercontent.com/SilensAngelusNex/silensangelusnex.github.com/master/_images/daleville/20170826_075744.jpg "Bridge into Harper's Ferry")
+![alt text](https://raw.githubusercontent.com/SilensAngelusNex/silensangelusnex.github.com/master/_images/daleville/20170826_075744.jpg "Another view from The Pinnacle")
 
 ### Day 89 - August 27
 ---
 
-![alt text](https://raw.githubusercontent.com/SilensAngelusNex/silensangelusnex.github.com/master/_images/daleville/20170827_133139.jpg "Bridge into Harper's Ferry")
+![alt text](https://raw.githubusercontent.com/SilensAngelusNex/silensangelusnex.github.com/master/_images/daleville/20170827_133139.jpg "View from Hightop Mountain")
 
 Just another day in the Shenandoahs, crossinf back and forth over Skyline Drive. The trail is nice and smooth so the miles go by quickly. There have been tons of dayhikers here, too. Every time I see someone car camping, I start to wonder what the point of it is. "They're not even going anywhere. Why wouldn't they just drive home and come back in the morning?"
 
 ### Day 90 - August 28
 ---
 
-![alt text](https://raw.githubusercontent.com/SilensAngelusNex/silensangelusnex.github.com/master/_images/daleville/20170828_111817.jpg "Bridge into Harper's Ferry")
+![alt text](https://raw.githubusercontent.com/SilensAngelusNex/silensangelusnex.github.com/master/_images/daleville/20170828_111817.jpg "View from Blackrock. Unfortunately, no old ship")
 
 Today was a hell of a long one. The 26.2 that we planned ended up being more like 27 or 28 with the side trails to water sources or to the shelters where we took breaks. I did see my first interesting animal today, a bear, when it ran across the trail about 150m in front of me. It stayed in the bushes just off the trail, watching me until I yelled at it. The more stationary views were excellent today, too, especially the ones from Black Rock. There was cell service at the shelter, so I treated myself to watching the Game of Thrones finale.
 
@@ -81,20 +81,20 @@ Today we left the Shenandoah State Park and headed in to Waynesboro. **Pickles**
 ### Day 92 - August 30
 ---
 
-![alt text](https://raw.githubusercontent.com/SilensAngelusNex/silensangelusnex.github.com/master/_images/daleville/20170830_134645.jpg "Bridge into Harper's Ferry")
+![alt text](https://raw.githubusercontent.com/SilensAngelusNex/silensangelusnex.github.com/master/_images/daleville/20170830_134645.jpg "View from Humpback Mountain")
 
 
 
 ### Day 93 - August 31
 ---
 
-![alt text](https://raw.githubusercontent.com/SilensAngelusNex/silensangelusnex.github.com/master/_images/daleville/20170831_094901.jpg "Bridge into Harper's Ferry")
+![alt text](https://raw.githubusercontent.com/SilensAngelusNex/silensangelusnex.github.com/master/_images/daleville/20170831_094901.jpg "The Devils Backbone Brewery")
 
 
 
-![alt text](https://raw.githubusercontent.com/SilensAngelusNex/silensangelusnex.github.com/master/_images/daleville/20170831_122439.jpg "Bridge into Harper's Ferry")
+![alt text](https://raw.githubusercontent.com/SilensAngelusNex/silensangelusnex.github.com/master/_images/daleville/20170831_122439.jpg "On Three Ridges Mountain")
 
-![alt text](https://raw.githubusercontent.com/SilensAngelusNex/silensangelusnex.github.com/master/_images/daleville/20170831_154915.jpg "Bridge into Harper's Ferry")
+![alt text](https://raw.githubusercontent.com/SilensAngelusNex/silensangelusnex.github.com/master/_images/daleville/20170831_154915.jpg "The view from halfway up The Priest")
 
 
 ### Day 94 September 1
@@ -105,7 +105,7 @@ Today we left the Shenandoah State Park and headed in to Waynesboro. **Pickles**
 ### Day 95 September 2
 ---
 
-![alt text](https://raw.githubusercontent.com/SilensAngelusNex/silensangelusnex.github.com/master/_images/daleville/20170902_141125.jpg "Bridge into Harper's Ferry")
+![alt text](https://raw.githubusercontent.com/SilensAngelusNex/silensangelusnex.github.com/master/_images/daleville/20170902_141125.jpg "The trail through the mist")
 
 
 ![alt text](https://raw.githubusercontent.com/SilensAngelusNex/silensangelusnex.github.com/master/_images/daleville/20170902_194228.jpg "Bridge out of Glasgow")
@@ -113,20 +113,20 @@ Today we left the Shenandoah State Park and headed in to Waynesboro. **Pickles**
 ### Day 96 - September 3
 ---
 
-![alt text](https://raw.githubusercontent.com/SilensAngelusNex/silensangelusnex.github.com/master/_images/daleville/20170903_123037.jpg "Bridge into Harper's Ferry")
+![alt text](https://raw.githubusercontent.com/SilensAngelusNex/silensangelusnex.github.com/master/_images/daleville/20170903_123037.jpg "View from Thunder Ridge")
 
 
 
 ### Day 97 - September 4
 ---
 
-![alt text](https://raw.githubusercontent.com/SilensAngelusNex/silensangelusnex.github.com/master/_images/daleville/20170904_120330.jpg "Bridge into Harper's Ferry")
+![alt text](https://raw.githubusercontent.com/SilensAngelusNex/silensangelusnex.github.com/master/_images/daleville/20170904_120330.jpg "Views near Buchanan")
 
 
 
 ### Day 98 - September 5
 ---
 
-![alt text](https://raw.githubusercontent.com/SilensAngelusNex/silensangelusnex.github.com/master/_images/daleville/20170905_080734.jpg "Bridge into Harper's Ferry")
+![alt text](https://raw.githubusercontent.com/SilensAngelusNex/silensangelusnex.github.com/master/_images/daleville/20170905_080734.jpg "Meadows outside of Daleville")
 
 
