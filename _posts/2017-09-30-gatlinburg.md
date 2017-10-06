@@ -8,6 +8,8 @@ tags: []
 ---
 {% include JB/setup %}
 
+The whole post is here now! Sorry about the long delay.
+
 ### Day 111 - September 18
 ---
 
@@ -45,15 +47,50 @@ Rob, a trail angel and former hostel owner who **Nature Boy** and I met up in Ma
 
 ![alt text](https://raw.githubusercontent.com/SilensAngelusNex/silensangelusnex.github.com/master/_images/gatlinburg/20170922_193241.jpg "The Nolichucky River")
 
-Well, we ended up doing that 29 miles anyway. We got to the campsite where we'd planned to stay, then decided to do the 3 miles into Erwin, TN, so that we could stay at Uncle Johnny's Hostel there.  Once we got there, we met Twisted, another SOBO. Its his 7th tome hiking the AT; he's a character. He mist have spent 20 minutes ranting about the hike over Pond Mountain. It wasn't always a never-ending spiral apparently. I'm not sure if I want him to keep up with us.
+Well, we ended up doing that 29 miles anyway. We got to the campsite where we'd planned to stay, then decided to do the 3 miles into Erwin, TN, so that we could stay at Uncle Johnny's Hostel there.  Once we got there, we met Twisted, another SOBO. It's his 7th time hiking the AT; he's a character. He mist have spent 20 minutes ranting about the hike over Pond Mountain. It wasn't always a never-ending spiral apparently. I'm not sure if I want him to keep up with us.
 
-### Day 115 - September 22
+### Day 116 - September 23
 ---
 
 ![alt text](https://raw.githubusercontent.com/SilensAngelusNex/silensangelusnex.github.com/master/_images/gatlinburg/20170923_160246.jpg "On Big Bald Mountain")
 
-
+Tons of climbing today. It looks like it's going to be that way for a while, judging by the guidebook. We kept a solid pace today; I got to eat before dark for a change, even though the water source was a quarter mile away.
 
 ![alt text](https://raw.githubusercontent.com/SilensAngelusNex/silensangelusnex.github.com/master/_images/gatlinburg/20170923_174427_Pano.jpg "Meadow Panorama")
 
-There's more of this post to come, but I don't have time to type it in at the moment. Stay tuned!
+### Day 117 - September 24
+---
+
+We had an adventure and a fun lesson in property rights today. **Nature Boy** and ** Dancing Bear** found two dogs walking on the trail, both of which were looking like they'd been out in the woods for a while. Their owners were nowhere to be found, and no one answered when we called the phone number on the dogs' tags. **Nature Boy** and ** Dancing Bear** used their bear ropes to leash the dogs and take them with us. A bit later, we called the hostel in Hot Springs to make reservation and ask if there was an animal control or something that could take the dogs. The hostel owner told us to let the dogs go, because there's a $10,000 fine for it, as it's interfering with someone's property. Awhile after they (quickly) unleashed the dogs, we passed their owners tracking their radio collars. They apparently were hunting bears and had lost the dogs.
+
+### Day 118-119 - September 25-26
+---
+
+![alt text](https://raw.githubusercontent.com/SilensAngelusNex/silensangelusnex.github.com/master/_images/gatlinburg/20170923_160246.jpg "View down to Hot Springs")
+
+Today we had a comparatively short hike into Hot Springs. There were a lot of day hikers, which was perplexing since it was Monday. After we dropped our packs at the hostel, **Nature Boy**, **Dancing Bear** and I went and got gigantic burgers at the Smokey Mountain Diner. We then had to hit all three places that sold food to piece together a resupply. The next day I did a lot of reading, played some pool (or billiards or something) at the BBQ place where we ate lunch, then went back to chill at the hostel. I was all set to do my post on the hostel' s computer, when I realized that what I had thought was a computer was, in fact, a bunch of disconnected parts without a CPU. Bit hard to use one of those. All in all, though, it was a relaxing and well-deserved zero. Less than two weeks to go!
+
+### Day 120 - September 27
+---
+
+![alt text](https://raw.githubusercontent.com/SilensAngelusNex/silensangelusnex.github.com/master/_images/gatlinburg/20170927_184007~2.jpg "On top of Max Patch")
+
+Up out of Hot Springs and back into the mountains! We camped on the bald top of Max Patch tonight. It's only a half-mile hike from the nearest parking lot, so there were a lot of people up there to watch the sunset with us. One of the groups was a band who seemed to be filming a music video, so we had these girls singing Fire and the Flood in the background all evening. All these non-hiker people are *weird*.
+
+![alt text](https://raw.githubusercontent.com/SilensAngelusNex/silensangelusnex.github.com/master/_images/gatlinburg/20170927_142514a.jpg "Walnut Mountain")
+
+![alt text](https://raw.githubusercontent.com/SilensAngelusNex/silensangelusnex.github.com/master/_images/gatlinburg/20170927_183045.jpg "Max Patch Sunset")
+
+### Day 121 - September 28
+---
+
+When we were starting off today, we met a southbound section-hiker who delivered some bad news: the shelter where we'd planned on staying is closed for bear activity. Our alternative options were to go 16 miles or 31 miles. **Nature Boy** and I were pretty disappointed. Right before we got into the Smokies we went down to the lowest elevation we've hit in a week or so; I'm glad we're not doing the whole 5000 foot climb up into the park in one day. Even so, the last part of the day was brutal. Since the day was so short, we got into the shelter early and made a fire in the built in fireplace. The shelter also has a chain-link fence to keep the bears out, which isn't the most comforting. I'd thought that the fences had been discontinued because people would feed bears through them, but apparently this shelter got skipped over.
+
+### Day 122 - September 29
+---
+
+![alt text](https://raw.githubusercontent.com/SilensAngelusNex/silensangelusnex.github.com/master/_images/gatlinburg/20170929_163704.jpg "Smokies View")
+
+I'm so glad to be done with that climb. It only took 15 miles. The Smokeys are pretty cold and foggy up on the ridge the AT follows. I was wearing shorts for the climb and was sweating anyway, but once I was up on top, I got cold quickly, even when I was walking. The shelter where we stayed tonight was a big one like last night's, but we had to share it with so many weekend hikers. We happened to hit the park at the worst time for that, right on the weekend. These guys made a fire in the fireplace and stood around talking for an hour and a half after dark. "Sir, I hiked 27 miles today and you hiked 3. Please let me go to sleep." And this is going to happen tomorrow night too, isn't it. Anyway, I'm looking forward to getting into Gatlinburg tomorrow, even though **Dancing Bear** didn't come through with his connection to get a ride.
+
+![alt text](https://raw.githubusercontent.com/SilensAngelusNex/silensangelusnex.github.com/master/_images/gatlinburg/20170929_154300.jpg "Another Smokies View")
