@@ -77,7 +77,7 @@ Today we had a comparatively short hike into Hot Springs. There were a lot of da
 
 Up out of Hot Springs and back into the mountains! We camped on the bald top of Max Patch tonight. It's only a half-mile hike from the nearest parking lot, so there were a lot of people up there to watch the sunset with us. One of the groups was a band who seemed to be filming a music video, so we had these girls singing Fire and the Flood in the background all evening. All these non-hiker people are *weird*.
 
-![alt text](https://raw.githubusercontent.com/SilensAngelusNex/silensangelusnex.github.com/master/_images/gatlinburg/20170927_142514a.jpg "Walnut Mountain")
+![alt text](https://raw.githubusercontent.com/SilensAngelusNex/silensangelusnex.github.com/master/_images/gatlinburg/20170927_142514.jpg "Walnut Mountain")
 
 ![alt text](https://raw.githubusercontent.com/SilensAngelusNex/silensangelusnex.github.com/master/_images/gatlinburg/20170927_183045.jpg "Max Patch Sunset")
 
