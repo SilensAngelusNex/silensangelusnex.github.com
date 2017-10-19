@@ -6,7 +6,6 @@ comments: true
 category:
 tags: []
 ---
-
 {% include JB/setup %}
 
 ### Day 123 - September 30
