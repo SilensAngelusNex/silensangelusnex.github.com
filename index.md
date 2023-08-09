@@ -9,7 +9,7 @@ title: Welcome!
 ## Roadrunner's Appalachian Trail Blog
 
 <ul class="posts">
-  {% for post in site.posts reversed %}
+  {% for post in site.categories.appalachian_trail reversed %}
     <li><span>{{ post.date | date_to_long_string }}</span> &raquo; <a href="{{ BASE_PATH }}{{ post.url }}">{{ post.title }}</a></li>
   {% endfor %}
 </ul>
