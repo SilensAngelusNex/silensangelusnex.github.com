@@ -78,7 +78,7 @@ Eddie kept me up talking later than I have been getting to bed and between that 
 ---
 ![alt text](https://raw.githubusercontent.com/SilensAngelusNex/silensangelusnex.github.com/master/_images/duncannon/20170810_162101.jpg "Kinter View")
 
-I'm really underestimating these "short" days. I did 18mi today, which I was thinking of as "way less than 24." It's not *that* much less. The shelter is great, though. When I was talking to a Ridgerunner there about his section (Duncannon to Lehigh Gap), Sniffles rolled up, just finishing he day of 30+ miles. We're planning on staying at the same places for the next few days, so it'll be nice to have some company. The one bad thing about the shelter is that it's way far down the hill. **Sniffles** was joking that he's now done the four hardest sections of the AT: southern Maine, the Whites, the rocks of Pennsylvania, and the trail to that spring. I used so much water cooking dinner that I had to go down twice. *Ugh*.
+I'm really underestimating these "short" days. I did 18mi today, which I was thinking of as "way less than 24." It's not *that* much less. The shelter is great, though. When I was talking to a Ridgerunner there about his section (Duncannon to Lehigh Gap), **Sniffles** rolled up, just finishing he day of 30+ miles. We're planning on staying at the same places for the next few days, so it'll be nice to have some company. The one bad thing about the shelter is that it's way far down the hill. **Sniffles** was joking that he's now done the four hardest sections of the AT: southern Maine, the Whites, the rocks of Pennsylvania, and the trail to that spring. I used so much water cooking dinner that I had to go down twice. *Ugh*.
 
 ### Day 73 - August 11
 ---

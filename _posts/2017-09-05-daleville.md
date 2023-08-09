@@ -15,7 +15,7 @@ Sorry I posted (and have continued posting) this half-finished. I was in the mid
 
 ![alt text](https://raw.githubusercontent.com/SilensAngelusNex/silensangelusnex.github.com/master/_images/daleville/20170819_091220.jpg "Bridge into Harper's Ferry")
 
-My resupply problem is solved; Bear's Den has a pretty decent resupply with Ramen, Rice Sides, and some bars. I got a nice taste of the Rollercoaster on my way in. It's a 13 mile section of rolling hills. They're each about 500-1000 ft climbs. I'm 4 miles in now, so the first half of my day tomorrow will be rough. In other news, I found a weird bug bite or something on the back of my head. Hopefully it's a mosquito or something and I don't have Lymes. If it doesn't go away in a day or two, I'll go get it checked out when I get the chance.
+My resupply problem is solved; Bear's Den has a pretty decent resupply with ramen, rice sides, and some bars. I got a nice taste of the Rollercoaster on my way in. It's a 13 mile section of rolling hills. They're each about 500-1000 ft climbs. I'm 4 miles in now, so the first half of my day tomorrow will be rough. In other news, I found a weird bug bite or something on the back of my head. Hopefully it's a mosquito or something and I don't have Lymes. If it doesn't go away in a day or two, I'll go get it checked out when I get the chance.
 
 ### Day 82 - August 20
 ---
@@ -54,7 +54,7 @@ After getting in to the shelter tonight, **Sniffles** came up with two other thr
 
 ![alt text](https://raw.githubusercontent.com/SilensAngelusNex/silensangelusnex.github.com/master/_images/daleville/20170826_075655_Burst11.jpg "View from The Pinnacle")
 
-Not the best morning today. I woke up with a sore throat, then, four or five miles in to the hike, a bee stung me on the ear, so I was all swelled up for a couple days. I'm fine now, no suspicious swelling or bites or anything, but I really hope these don't become a regular thing. The hiking today was pretty fast, motivated by the wayside two-thirds of the way through the day. We posted up in the restaurant there for a while, then resupplied at their little store before leaving. I got a big slice of Virginia Ham to pack out. Some of the section hikers at the shelter that night really got me worried about trichinosis while I was boiling ham pieces in my ramen (Backseat cooking, amiright?), so I cooked the rest over the fire on a stick. It turned into a bit of a group project; everyone was a bit mesmerised once the fat started dripping into the fire.
+Not the best morning today. I woke up with a sore throat, then, four or five miles in to the hike, a bee stung me on the ear, so I was all swelled up for a couple days. I'm fine now, no suspicious swelling or bites or anything, but I really hope these don't become a regular thing. The hiking today was pretty fast, motivated by the wayside two-thirds of the way through the day. We posted up in the restaurant there for a while, then resupplied at their little store before leaving. I got a big slice of Virginia Ham to pack out. Some of the section hikers at the shelter that night really got me worried about trichinosis while I was boiling ham pieces in my ramen (Backseat cooking, amiright?), so I cooked the rest over the fire on a stick. It turned into a bit of a group project; everyone was a bit mesmerized once the fat started dripping into the fire.
 
 ![alt text](https://raw.githubusercontent.com/SilensAngelusNex/silensangelusnex.github.com/master/_images/daleville/20170826_075744.jpg "Another view from The Pinnacle")
 
@@ -63,7 +63,7 @@ Not the best morning today. I woke up with a sore throat, then, four or five mil
 
 ![alt text](https://raw.githubusercontent.com/SilensAngelusNex/silensangelusnex.github.com/master/_images/daleville/20170827_133139.jpg "View from Hightop Mountain")
 
-Just another day in the Shenandoahs, crossinf back and forth over Skyline Drive. The trail is nice and smooth so the miles go by quickly. There have been tons of dayhikers here, too. Every time I see someone car camping, I start to wonder what the point of it is. "They're not even going anywhere. Why wouldn't they just drive home and come back in the morning?"
+Just another day in the Shenandoahs, crossing back and forth over Skyline Drive. The trail is nice and smooth so the miles go by quickly. There have been tons of dayhikers here, too. Every time I see someone car camping, I start to wonder what the point of it is. "They're not even going anywhere. Why wouldn't they just drive home and come back in the morning?"
 
 ### Day 90 - August 28
 ---
@@ -83,14 +83,14 @@ Today we left the Shenandoah State Park and headed in to Waynesboro. **Pickles**
 
 ![alt text](https://raw.githubusercontent.com/SilensAngelusNex/silensangelusnex.github.com/master/_images/daleville/20170830_134645.jpg "View from Humpback Mountain")
 
-We hiked from Waynesboro straight to Reed's Gap, home of the Devil's Backbone Brewery. The guy **Pickles** stayed with (her dad's first boss, who just finished a section hike) picked us up at the trail and took us to the brewery. It looked like a restaurants that belonged at Disney. The food was great! I got some French Dip barbecue stuff that really hit the spot. I'm looking forward to the breakfast; it's supposed to be huge.
+We hiked from Waynesboro straight to Reed's Gap, home of the Devil's Backbone Brewery. The guy **Pickles** stayed with (her dad's first boss, who just finished a section hike) picked us up at the trail and took us to the brewery. It looked like a restaurant that belonged at Disney. The food was great! I got some French Dip barbecue stuff that really hit the spot. I'm looking forward to the breakfast; it's supposed to be huge.
 
 ### Day 93 - August 31
 ---
 
 ![alt text](https://raw.githubusercontent.com/SilensAngelusNex/silensangelusnex.github.com/master/_images/daleville/20170831_094901.jpg "The Devils Backbone Brewery")
 
-The breakfast lived up to expectations, so we got a late start out of the brewery this morning. They shuttled us back to the trail in a the back of a pick-up truck. **Nature Boy** was extatic about riding in the bed "just like in movies." The end of the day was a huge climb straight up The Priest. It wasn't steep, but it was four straight miles of climbing. Once we got to the shelter at the top we read the log book, which hikers have turned into somthing of a confessional, displaying all of their trail sins. Most of them were comedic, but there was a handful of actually terrible ones.
+The breakfast lived up to expectations, so we got a late start out of the brewery this morning. They shuttled us back to the trail in a the back of a pick-up truck. **Nature Boy** was ecstatic about riding in the bed "just like in movies." The end of the day was a huge climb straight up The Priest. It wasn't steep, but it was four straight miles of climbing. Once we got to the shelter at the top we read the log book, which hikers have turned into something of a confessional, displaying all of their trail sins. Most of them were comedic, but there was a handful of actually terrible ones.
 
 ![alt text](https://raw.githubusercontent.com/SilensAngelusNex/silensangelusnex.github.com/master/_images/daleville/20170831_122439.jpg "On Three Ridges Mountain")
 
@@ -100,7 +100,7 @@ The breakfast lived up to expectations, so we got a late start out of the brewer
 ### Day 94 September 1
 ---
 
-My friends abandoned me! It was raining hard all day and I reached the shelter we'd decided to stay when I found out that thw rest of the group had gone in to town to stay in a motel. Apparently they were wet and cold or something. I did my best to snuggle up in the shelter and ate for about four hours.
+My friends abandoned me! It was raining hard all day and I reached the shelter we'd decided to stay when I found out that the rest of the group had gone in to town to stay in a motel. Apparently they were wet and cold or something. I did my best to snuggle up in the shelter and ate for about four hours.
 
 ### Day 95 September 2
 ---
@@ -127,7 +127,7 @@ To be blunt, it's been too long for me to remember anything about these uneventf
 
 ![alt text](https://raw.githubusercontent.com/SilensAngelusNex/silensangelusnex.github.com/master/_images/daleville/20170905_080734.jpg "Meadows outside of Daleville")
 
-Today was a crazy saga of hiking. We went into Daleville, resupplied and ate at a Bojangles and a local barbecue place. (They didn't give us the free dessert that their AWOL entry claims because it "isn't hiker season." We had a table of eight hikers.) Then, we hiked up to Tinker Cliffs to try to catch the sunset. It was overcast, so the view wasn't particularly spectacular. After sunset (Yes, in the dark) we hiked four miles to the next shelter to grab some sleep before waking up in time to hike another mile to see the sunrise at McAfee Knob (*The* AT picture spot). I am not at all a fan of the whole headlamping thing. Also, hot take: sleep is pretty great too. We did get some nice photos on the Knob even though it was smilarly overcast and chillingly windy.
+Today was a crazy saga of hiking. We went into Daleville, resupplied and ate at a Bojangles and a local barbecue place. (They didn't give us the free dessert that their AWOL entry claims because it "isn't hiker season." We had a table of eight hikers.) Then, we hiked up to Tinker Cliffs to try to catch the sunset. It was overcast, so the view wasn't particularly spectacular. After sunset (Yes, in the dark) we hiked four miles to the next shelter to grab some sleep before waking up in time to hike another mile to see the sunrise at McAfee Knob (*The* AT picture spot). I am not at all a fan of the whole headlamping thing. Also, hot take: sleep is pretty great too. We did get some nice photos on the Knob even though it was similarly overcast and chillingly windy.
 
 ![alt text](https://raw.githubusercontent.com/SilensAngelusNex/silensangelusnex.github.com/master/_images/daleville/20170905_141744.jpg "View from Hay Rock")
 
