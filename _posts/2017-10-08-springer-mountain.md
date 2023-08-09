@@ -3,7 +3,7 @@ layout: post
 title: "The Very Last Mountain - Springer"
 description: "Post 18"
 comments: true
-category:
+category: appalachian_trail
 tags: []
 ---
 {% include JB/setup %}

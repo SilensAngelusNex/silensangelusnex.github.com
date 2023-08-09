@@ -1,9 +1,9 @@
 ---
 layout: post
 title: "Straight Outta New England - Greenwood Lake"
-description: "Post 13"
+description: "Appalachian Trail Post 13"
 comments: true
-category:
+category: appalachian_trail
 tags: []
 ---
 {% include JB/setup %}

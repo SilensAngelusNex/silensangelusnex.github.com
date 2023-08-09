@@ -1,9 +1,9 @@
 ---
 layout: post
 title: "The Night Before"
-description: "Post 1"
+description: "Appalachian Trail Post 1"
 comments: true
-category:
+category: appalachian_trail
 tags: []
 ---
 {% include JB/setup %}

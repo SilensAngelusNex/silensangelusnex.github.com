@@ -1,9 +1,9 @@
 ---
 layout: post
 title: "That's It? - Carratunk"
-description: "Post 4"
+description: "Appalachian Trail Post 4"
 comments: true
-category:
+category: appalachian_trail
 tags: []
 ---
 {% include JB/setup %}

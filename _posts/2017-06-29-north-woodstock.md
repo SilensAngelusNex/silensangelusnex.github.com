@@ -1,9 +1,9 @@
 ---
 layout: post
 title: "Birthday Post! - North Woodstock"
-description: "Post 7"
+description: "Appalachian Trail Post 7"
 comments: true
-category:
+category: appalachian_trail
 tags: []
 ---
 {% include JB/setup %}

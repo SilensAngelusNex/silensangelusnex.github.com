@@ -1,9 +1,9 @@
 ---
 layout: post
 title: "So Flat - Sheffield"
-description: "Post 12"
+description: "Appalachian Trail Post 12"
 comments: true
-category:
+category: appalachian_trail
 tags: []
 ---
 {% include JB/setup %}

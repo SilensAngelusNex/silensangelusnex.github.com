@@ -1,9 +1,9 @@
 ---
 layout: post
 title: "Hop, Skip, Jump - Manchester Center"
-description: "Post 10"
+description: "Appalachian Trail Post 10"
 comments: true
-category:
+category: appalachian_trail
 tags: []
 ---
 {% include JB/setup %}

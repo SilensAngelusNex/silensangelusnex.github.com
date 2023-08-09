@@ -3,7 +3,7 @@ layout: post
 title: "Hello World"
 description: "FIRST!!!1!!one!!!"
 comments: true
-category:
+category: setup
 tags: []
 ---
 {% include JB/setup %}

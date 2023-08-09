@@ -1,9 +1,9 @@
 ---
 layout: post
 title: "Gotta Go Fast - Daleville"
-description: "Post 15"
+description: "Appalachian Trail Post 15"
 comments: true
-category:
+category: appalachian_trail
 tags: []
 ---
 {% include JB/setup %}

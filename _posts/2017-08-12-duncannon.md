@@ -1,9 +1,9 @@
 ---
 layout: post
 title: "Through the Rocks - Duncannon"
-description: "Post 14"
+description: "Appalachian Trail Post 14"
 comments: true
-category:
+category: appalachian_trail
 tags: []
 ---
 {% include JB/setup %}

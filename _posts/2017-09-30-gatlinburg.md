@@ -1,9 +1,9 @@
 ---
 layout: post
 title: "Penultimate - Gatlinburg"
-description: "Post 17"
+description: "Appalachian Trail Post 17"
 comments: true
-category:
+category: appalachian_trail
 tags: []
 ---
 {% include JB/setup %}
