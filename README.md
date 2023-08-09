@@ -1,5 +1,7 @@
 # SilensAngelusNex's Blog using Jekyll-Bootstrap
 
+Site deployed at [silensangelusnex.github.io/](https://silensangelusnex.github.io/)
+
 For all their usage and documentation please see: <http://jekyllbootstrap.com>
 
 ### License
